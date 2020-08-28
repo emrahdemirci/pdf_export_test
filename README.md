@@ -1,6 +1,6 @@
 # pdf_export_test
 
-ECG Line Chart PDF Report Exporter
+Flutter ECG Line Chart PDF Report Exporter
  
 ## Getting Started
 
